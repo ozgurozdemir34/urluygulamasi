@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662005445688",
+    "project_id": "urluygulama-dfb7e",
+    "storage_bucket": "urluygulama-dfb7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662005445688:android:0498c8ab5195a4534322cd",
+        "android_client_info": {
+          "package_name": "com.example.urluygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLVBDNjUUfldNBe6BGIUSjPHJwC56d8V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
